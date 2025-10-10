@@ -6,9 +6,6 @@ const Main = () => {
         'https://ab623.com',
         'https://1m23.com',
         'https://6623vip1.xyz',
-        'https://6623vip2.xyz',
-        'https://6623vip3.xyz',
-        'https://6623vip4.xyz',
     ]
     useEffect(() => {
         const handleResize = () => {
