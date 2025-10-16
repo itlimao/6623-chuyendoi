@@ -3,8 +3,8 @@ import { React, useState, useEffect } from 'react';
 const Main = () => {
     const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
     const link = [
-        'https://ab623.com',
-        'https://1m23.com',
+        'https://link.6623v3.top',
+        'https://link.6623v1.top',
         'https://6623vip1.xyz',
     ]
     useEffect(() => {
