@@ -2,7 +2,7 @@ import { React, useState, useEffect } from "react";
 
 const Main = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
-  const link = "https://662388.org/trangchu";
+  const link = "https://6623v4.sbs/";
   useEffect(() => {
     const handleResize = () => {
       setIsMobile(window.innerWidth < 768);
